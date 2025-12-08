@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Folders
+Content/StarterContent/
+Content/ThirdPerson/
+Content/TP_UE
+Content/ParagonShinbi/
+Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap
+Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap
